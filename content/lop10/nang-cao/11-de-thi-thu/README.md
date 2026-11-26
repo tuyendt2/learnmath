@@ -30,7 +30,7 @@ Gồm **10 đề**, mỗi đề **10 câu**, câu thứ k ứng với chủ đ�
 | [Đề 3](de-03.md) | Hệ đẳng cấp; nghiệm nguyên phân tích nhân tử; bù trừ cho hoán vị |
 | [Đề 4](de-04.md) | Ẩn phụ; khoảng cách $OI$; xếp nữ không cạnh nhau |
 | [Đề 5](de-05.md) | Số chính phương; giao hai cát tuyến bằng vectơ; tập con có tổng chia hết cho 3 |
-| [Đề 6](de-06.md) | Phương trình hai chiều $x^3 + 1 = 2\sqrt[3]{2x - 1}$; tổ hợp tô màu mặt phẳng; Cauchy biến thể |
+| [Đề 6](de-06.md) | Phương trình hai chiều $x^3 + 2 = 3\sqrt[3]{3x - 2}$; tổ hợp tô màu mặt phẳng; Cauchy biến thể |
 | [Đề 7](de-07.md) | Bất đẳng thức đối xứng hai biến; $OC \perp DE$; chữ số tăng dần |
 | [Đề 8](de-08.md) | Tiếp tuyến chung chia đôi bởi trục đẳng phương; xâu nhị phân; phương trình hàm với $\frac{1}{x}$ |
 | [Đề 9](de-09.md) | Định lý “con gà”; diện tích tam giác nhỏ nhất; bất biến đống sỏi |
